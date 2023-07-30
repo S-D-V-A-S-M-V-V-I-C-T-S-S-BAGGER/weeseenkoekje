@@ -6,6 +6,7 @@ import CookieLifestyle from "./lifestyle/CookieLifestyle";
 const routes: React.FC = () => (
   <BrowserRouter>
     <Switch>
+      {/* @ts-ignore */}
       <Route component={CookieLifestyle} />
     </Switch>
   </BrowserRouter>

@@ -14,11 +14,10 @@ const quotes = [
   "Wees een beetje salty",
   "Wees zoet",
   "Wees lekker",
-  "Ga met z'n allen in een doos zitten",
   "Wees goedkoop, maar soms een beetje duur",
   "Wees gevuld met chocolate chips",
-  "Heb geen ruggengraad",
-  "Wees nooit brak, maar wel een beetje gebroken"
+  "Heb geen ruggengraat",
+  "Wees nooit brak, maar wel een beetje gebroken",
 ];
 
 const CookieLifestyle = () => {

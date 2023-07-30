@@ -18,6 +18,7 @@ const quotes = [
   "Wees gevuld met chocolate chips",
   "Heb geen ruggengraat",
   "Wees nooit brak, maar wel een beetje gebroken",
+  "Maak mensen blij",
 ];
 
 const CookieLifestyle = () => {

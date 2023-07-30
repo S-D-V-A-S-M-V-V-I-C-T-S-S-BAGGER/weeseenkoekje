@@ -1,7 +1,10 @@
 import React, { useState } from "react";
 
+// @ts-ignore
 import blaadjes from "../assets/blaadjes.svg";
+// @ts-ignore
 import classes from "./CookieLifestyle.module.scss";
+// @ts-ignore
 import cookies from "../assets/cookies.svg";
 
 const quotes = [
